@@ -543,7 +543,7 @@ var DodatkowaPage = /** @class */ (function () {
     };
     DodatkowaPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-dodatkowa',template:/*ion-inline-start:"/home/greg/Documents/Workspace/Books/Books/src/pages/dodatkowa/dodatkowa.html"*/'<!--\n  Generated template for the DodatkowaPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Dodatkowa</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n\n</ion-content>\n'/*ion-inline-end:"/home/greg/Documents/Workspace/Books/Books/src/pages/dodatkowa/dodatkowa.html"*/,
+            selector: 'page-dodatkowa',template:/*ion-inline-start:"/home/greg/Documents/Workspace/Books/Books/src/pages/dodatkowa/dodatkowa.html"*/'<!--\n  Generated template for the DodatkowaPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Dodatkowa\n\n      aesfaef a\n    </ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n\n</ion-content>\n'/*ion-inline-end:"/home/greg/Documents/Workspace/Books/Books/src/pages/dodatkowa/dodatkowa.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavParams */]])
     ], DodatkowaPage);

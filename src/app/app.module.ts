@@ -14,7 +14,7 @@ import { MainPage } from '../pages/main/main';
 import { GooglePlus } from '@ionic-native/google-plus';
 import { Facebook } from '@ionic-native/facebook';
 import { DodPage } from '../pages/dod/dod';
-
+import { DodatkowaPage } from '../pages/dodatkowa/dodatkowa';
 var config = {
   apiKey: "AIzaSyCK0TBqUcv_gsNB_wrqQRj89Osv6AxXxBo",
   authDomain: "authtest-abec5.firebaseapp.com",
@@ -29,7 +29,9 @@ var config = {
     MyApp,
     HomePage,
     MainPage,
-    DodPage
+    DodPage,
+    DodatkowaPage
+
   ],
   imports: [
     BrowserModule,
@@ -43,7 +45,8 @@ var config = {
     MyApp,
     HomePage,
     MainPage,
-    DodPage
+    DodPage,
+    DodatkowaPage
   ],
   providers: [
     StatusBar,
